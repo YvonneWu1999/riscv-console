@@ -33,6 +33,6 @@ To play again, the user can press the "RST" button.
 
 
 ## Demo video
-[![Demo Video](gamescreenshot.png)](tictactoefinal.mov)
+[![Demo Video](gamescreenshot.png)](https://drive.google.com/file/d/15YL49YCGtsJxIpkFIt_8n1XWBmT2mgw-/view?usp=sharing)
 
 Click the image above to watch the demo video.
