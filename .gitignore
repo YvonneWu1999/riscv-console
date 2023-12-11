@@ -39,3 +39,6 @@ bin/
 
 # Allow untracked workspace
 workspace/
+
+*group_5
+*group_8
